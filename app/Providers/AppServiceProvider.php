@@ -13,7 +13,7 @@ class AppServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-        //
+        \Carbon\Carbon::setLocale('zh'); //设置时间格式
     }
 
     /**
