@@ -7,9 +7,6 @@
 
         <title>Laravel</title>
 
-        <!-- Fonts -->
-        <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
-
         <!-- Styles -->
         <style>
             html, body {
@@ -79,7 +76,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    I am Everan ！(*^__^*)
                 </div>
 
                 <div class="links">
