@@ -11,7 +11,7 @@
     <title>@yield('title', 'Everan') - Laravel 进阶教程</title>
 
     <!-- Styles -->
-    <link href="{{ asset('css/app.css') }}" rel="stylesheet">
+    <link href="{{ asset('css/app.css') }}?v=1.0.1" rel="stylesheet">
 </head>
 
 <body>
