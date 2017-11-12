@@ -19,3 +19,5 @@ Route::group(['namespace' => 'Everan'], function () {
 });
 
 
+
+Route::resource('replies', 'RepliesController', ['only' => ['index', 'show', 'create', 'store', 'update', 'edit', 'destroy']]);
